@@ -16,12 +16,11 @@
   - `open in browser` 在浏览器中打开
   - `view in browser` 
   - `Debugger for Chrome` 使用Chrome浏览器打断点
-
 - 主题设置
 
   - <img src="img/2.png" alt="2" style="zoom:50%;" />
-
-  
+- 编辑设置
+  - 
 
 
 
